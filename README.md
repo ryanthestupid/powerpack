@@ -1,2 +1,2 @@
 # PowerPack
-A fully custom 25Ah Li-Ion battery with 4x fused powerpole outputs and USB-C charging.
+25Ah Li-ion battery pack with 8x fused PowerPoles and USB-C PD. Built for usage in the Amateur Radio Emergency Service.
